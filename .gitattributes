@@ -1,1 +1,2 @@
-*.html linguist-language=TypeScript
+*.html linguist-language=Angular
+*.ts linguist-language=Angular
